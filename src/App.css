@@ -1,0 +1,32 @@
+.body1 {
+  background-color:red;
+}/*
+  height:100%,
+  width:100%,
+  backgroundImage: url(./img.png),
+  backgroundSize: 1600px 900px,
+  textAlign:center
+}
+
+const t1={
+  color:"white",
+  textAlign:"center",
+  fontSize:"25px"
+}
+const wel={
+  color:"white",
+  textAlign:"center",
+  fontSize:"50px"
+}
+const s1={
+  margin:"auto",
+  height:"300px",
+  width:"200px",
+  padding:"10px 70px",
+  borderRadius:"20px",
+  textAlign:"center",    
+}
+const ip1={
+   width:"200px",
+   height:"35px"
+}*/
